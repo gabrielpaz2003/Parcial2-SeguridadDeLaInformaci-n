@@ -1,0 +1,20 @@
+# Word temporary files
+~$*
+*.tmp
+*.temp
+
+# OS metadata
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Script/cache noise
+__pycache__/
+*.pyc
+*.pyo
+
+# Accidental local screenshots or test outputs
+screen*.png
+test*.png
+*.log
+*.bak
